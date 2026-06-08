@@ -1,6 +1,6 @@
 // Widget Sofia — Campus Startop
 // N'oublie pas de changer 'ton-projet' par le vrai lien généré par Vercel !
-const BACKEND_URL = 'https://ton-projet.vercel.app/api/chat'
+const BACKEND_URL = 'https://backend-startop-bods.vercel.app/api/chat'
 let conversationHistory = []
 let userProfile = {}
 
