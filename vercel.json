@@ -1,5 +1,5 @@
 { 
   "functions": { 
-    "api/chat.js": { "runtime": "nodejs18.x" } 
+    "api/chat.js": { "runtime": "nodejs20.x" } 
   }
 }
